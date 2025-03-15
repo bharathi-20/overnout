@@ -17,7 +17,6 @@ import profileIcon from './images/user.png';
 
 function App() {
   return (
-    <h1>Hello world</h1>/*
     <Router>
       <div className="App">
         <header className="navbar-custom text-white p-4">
@@ -68,7 +67,7 @@ function App() {
         </footer>
 
       </div>
-    </Router>*/
+    </Router>
   );
 }
 
