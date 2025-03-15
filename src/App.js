@@ -23,7 +23,7 @@ function App() {
           <div className="container d-flex justify-content-between align-items-center">
             <div className="logo-container">
               <Link to="/">
-                <img src={logo} alt="Logo" className="logo" /> 
+                <img src={logo} alt="Logo" className="logo" />rtdtrtc 
               </Link>
             </div>
             <nav className="w-100">
